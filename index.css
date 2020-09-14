@@ -1,0 +1,53 @@
+.projectTabale td img{
+    max-width: 50%;
+    max-height: 100%;
+}
+
+a:hover{
+    color: red;
+}
+
+body{
+    background-image: url('https://lh3.googleusercontent.com/proxy/S-_3vvTY2YYySY1mlrgr4jsA-EDsTxrCDhh6_24bL0PqZLGUdWJmv6xQhnUaDKwXhIEvp11sp8HcTByeven4yk0_dOT-LqJ-xpuwR87AYiTZdYTfeWRYSXC8RKXFY4BhberBVfGkA9nN0cVPxQ');
+    background-size: cover;
+    padding-top: 5%;
+}
+
+.schoolProject table{
+    width:70%; 
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.status{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.personal{
+    width:70%; 
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.schoolProject{
+    text-align: center;
+}
+
+.education a{
+    text-decoration: none;
+}
+
+.education{
+    height: 30%;
+    width:70%; 
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.education img{
+    float: right;
+    max-width: 40%;
+    max-height: 40%;
+}
